@@ -32,7 +32,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "npm-run-all": "^4.1.3"
   }
 }
